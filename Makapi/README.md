@@ -12,7 +12,7 @@ Mackerel APIについては https://mackerel.io/ja/api-docs/ を参照のこと
 ```cs
 using WebAPI;
 
-var apiKey = "jr3aTehJbEZej8Z5zM64jSb11LNjcTVfrbHEyNbdqGxi";
+var apiKey = "<YOUR API KEY>";
 var m = new Makapi(apiKey);
 
 m.get("org")
