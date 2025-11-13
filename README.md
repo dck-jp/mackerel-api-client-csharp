@@ -1,7 +1,7 @@
 # Makapi
 
 A simple C# client library for accessing the [Mackerel API](https://mackerel.io/ja/api-docs/).  
-It offers a similar interface to the official [Mackerel API Client for Python](https://github.com/heavenshell/py-mackerel-client).
+It offers a similar interface to the [Mackerel API Client for Python](https://github.com/cm-watanabeseigo/mackerel-api-client-python) aka makapi.py 
 
 ---
 
